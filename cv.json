@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Brian Elías Vera",
+    "label": "Full Stack Developer",
+    "image": "/me.jpeg",
+    "email": "bryanverac@gmail.com",
+    "phone": "+595 975654441",
+    "url": "https://midu.dev",
+    "summary": "Desarrollador Full Stack y actual estudiante de cuarto año de Ingeniería Civil con un firme interés en el mundo del desarrollo Web. Mis habilidades se centran en el uso de tecnologías como React, Next.js, MongoDB, Node.js, Express y Material UI, que he estado aprendiendo y practicando activamente. Con la experiencia he desarrollado la capacidad de resolución de problemas y toma de decisiones como también el valor del trabajo en equipo con una gran capacidad de adaptabilidad y aprendizaje. Emocionado de seguir creciendo en el ámbito de la tecnología y abierto a nuevas oportunidades para expandir mis conocimientos y habilidades.",
+    "location": {
+      "address": "",
+      "postalCode": "6000",
+      "city": "Encarnación",
+      "countryCode": "PY",
+      "region": "Paraguay"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "brianverac",
+        "url": "https://www.linkedin.com/in/brianverac/"
+      },
+      {
+        "network": "GitHub",
+        "username": "bryanvera97",
+        "url": "https://github.com/brianvera97"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Herreria Norte",
+      "position": "ENCARGADO",
+      "startDate": "2018-06-01",
+      "endDate": "2023-04-01",
+      "summary": "Como encargado de una herrería, me correspondió diseñar estrategias para cada proyecto, supervisar al equipo para asegurar el logro de objetivos y plazos, y ejecutar las estrategias de maneran eficiente para obtener resultados satisfactorios.",
+      "highlights": [
+        "Desarrollé estrategias para cada fase del proyecto, considerando recursos y plazos.",
+        "Coordiné el equipo para asegurar el cumplimiento de objetivos y plazos.",
+        "Implementé de manera efectiva estrategias y planes previamente establecidos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitad Politecnica y Artistica del Paraguay ",
+      "url": "https://upap.edu.py/",
+      "area": "Ingeniero Civil",
+      "startDate": "2018-01-02",
+      "endDate": null,
+      "score": "4.0"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Junior",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Junior",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Express",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Presupuestador Master",
+      "isActive": true,
+      "description": "Presupuestadora y calculadora interactiva e intuitiva para Herrerias",
+      "highlights": [
+        "Carga medidas",
+        "Rentabilidad e iva editable",
+        "Descarga un pdf del presupuesto final"
+      ],
+      "github": "https://github.com/Brianvera97/PresupuestadorMaster.git"
+    }
+  ]
+}
